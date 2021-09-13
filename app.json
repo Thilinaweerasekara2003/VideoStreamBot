@@ -2,6 +2,7 @@
     "name": "Video Streaming Bot",
     "description": "Telegram bot for streaming video in groups",
     "keywords": ["telegram", "python", "video", "bot"],
+       "logo": "https://telegra.ph/file/737d2d433f8495d1a5446.jpg",
     "repository": "https://github.com/Vegetaxd/VideoStreamBot",
     "env": {
       "STRING_SESSION": {
