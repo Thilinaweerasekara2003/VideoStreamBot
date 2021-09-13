@@ -1,6 +1,7 @@
 <h1 align= center>Video Stream Bot </h1>
 <h3 align = center> A Video Streaming Telegram Bot written in Python using Pyrogram and PyTgcalls </h3>
-
+<p align="center">
+  <img src="https://telegra.ph/file/737d2d433f8495d1a5446.jpg" width='600"'>
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
