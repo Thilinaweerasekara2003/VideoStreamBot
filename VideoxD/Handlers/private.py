@@ -32,7 +32,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(
                         text="Demo",
-                        url="https://t.me/HITecRobot",
+                        url="https://t.me/gangofmafiatm",
                     )
                 ],
             ]
