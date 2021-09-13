@@ -21,7 +21,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(
                         text="Repository",
-                        url="https://github.com/VegetaxD/VideoStreamBot",
+                        url="https://github.com/Thilinaweerasekara2003/VideoStreamBot",
                     )
                 ],
                 [
@@ -32,7 +32,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(
                         text="Demo",
-                        url="https://t.me/VideoStreamingxD?voicechat",
+                        url="https://t.me/HITecRobot",
                     )
                 ],
             ]
